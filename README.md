@@ -1,4 +1,3 @@
 ## Olá!!
 
-- 💼 Estagiario Bi
 - 💻  Estudando
